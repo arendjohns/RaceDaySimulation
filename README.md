@@ -1,2 +1,1 @@
-# RaceDaySimulation
-Get an idea for the solar output on racing day
+The MATLAB code graphs solar power output on any given date given the parameters of the solar array. Solar power is found using the fundamental equations of solar cells. Tests on the array must be done to find the shunt and series resistance before the code can be used. Shading is not accounted for and parameters will not be perfect but this will give a good estimate for what to expect on the competition racing day. Knowing the solar power output is important to devise a race strategy.   
